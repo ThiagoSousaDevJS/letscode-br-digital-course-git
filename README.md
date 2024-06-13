@@ -1,7 +1,7 @@
 # Curso digital: git/versionamento
 
-## Gravando mudanças no repositório ..
+## Salvando alterações no git
 
-# salvando modificações no git
+
 
 
